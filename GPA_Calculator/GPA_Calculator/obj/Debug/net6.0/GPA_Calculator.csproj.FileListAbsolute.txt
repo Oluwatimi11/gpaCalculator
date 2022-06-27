@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\bin\Debug\net6.0\GPA_Calculator.exe
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\bin\Debug\net6.0\GPA_Calculator.deps.json
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\bin\Debug\net6.0\GPA_Calculator.runtimeconfig.json
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\bin\Debug\net6.0\GPA_Calculator.dll
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\bin\Debug\net6.0\GPA_Calculator.pdb
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.dll
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\refint\GPA_Calculator.dll
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.pdb
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\GPA_Calculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\GPA_Calculator\GPA_Calculator\obj\Debug\net6.0\ref\GPA_Calculator.dll
